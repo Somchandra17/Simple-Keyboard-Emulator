@@ -25,14 +25,17 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
    ```
 
 ## Usage 
+
+
 1. Run the application:
+   
    '''shell
    python keyboard_app.py
    '''
-2. Enter the desired text in the text entry box.
+3. Enter the desired text in the text entry box.
 
-3. Click the "Start" button to begin the typing simulation.
+4. Click the "Start" button to begin the typing simulation.
 
-4. After a 5-second delay, the entered text will be automatically typed.
+5. After a 5-second delay, the entered text will be automatically typed.
 
-5. The application supports special characters, such as new lines and colons, which will be typed accordingly.
+6. The application supports special characters, such as new lines and colons, which will be typed accordingly.
