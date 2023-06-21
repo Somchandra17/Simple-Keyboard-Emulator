@@ -16,7 +16,7 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 
 ## Installation
 
-1. Make sure you have Python installed on your system. You can download the latest version of Python from the official Python website: [python.org](https://www.python.org/downloads/)
+1. Make sure you have Python installed on your system.
 
 2. Install the required libraries by running the following command:
 
@@ -29,9 +29,10 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 
 1. Run the application:
    
-   '''shell
+   ```shell
    python keyboard_app.py
-   '''
+   ```
+   
 3. Enter the desired text in the text entry box.
 
 4. Click the "Start" button to begin the typing simulation.
