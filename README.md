@@ -27,6 +27,10 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 ## Usage 
 
 
+
+Uploading 2023-06-22 02-59-02.mp4…
+
+
 1. Run the application:
    
    ```shell
@@ -40,6 +44,12 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 5. After a 5-second delay, the entered text will be automatically typed.
 
 6. The application supports special characters, such as new lines and colons, which will be typed accordingly.
+
+- Demo with [MonkeyType](https://monkeytype.com/)
+
+https://github.com/Somchandra17/Simple-Keyboard-Emulator/assets/85082756/1ae4d8d2-5181-4761-b01d-09f9e8d74c31
+
+
 
 ## License
 
