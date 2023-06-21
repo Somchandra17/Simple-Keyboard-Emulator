@@ -28,7 +28,7 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 
 
 
-https://github.com/Somchandra17/Simple-Keyboard-Emulator/assets/85082756/ddea5f82-a372-46f6-8f2c-96ef46add0f3
+https://github.com/Somchandra17/Simple-Keyboard-Emulator/assets/85082756/56902a8e-d9b7-4f07-b1ea-b385717c700a
 
 
 1. Run the application:
