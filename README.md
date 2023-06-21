@@ -40,3 +40,7 @@ The Simple Keyboard Emulator is a minimal GUI application built using Python and
 5. After a 5-second delay, the entered text will be automatically typed.
 
 6. The application supports special characters, such as new lines and colons, which will be typed accordingly.
+
+## License
+
+- The Simple Keyboard Emulator project is licensed under the [MIT License](LICENSE).
