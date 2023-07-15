@@ -13,6 +13,8 @@ class KeyboardApp(tk.Tk):
         self.text_entry = tk.Text(self, width=40, height=10, bg="#FFFFFF")
         self.text_entry.pack(pady=10, padx=20)
 
+        self.text_entry.bind("<Tab>", lambda e: "break")
+
         self.start_button = tk.Button(self, text="Start", bg="#4CAF50", fg="white", command=self.start_typing)
         self.start_button.pack(pady=5)
 
