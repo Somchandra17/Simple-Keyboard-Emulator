@@ -1,0 +1,3 @@
+@echo off
+echo Press any key to exit...
+start cmd /k "python3 ./keyboard.py & pause"
