@@ -8,14 +8,14 @@ class KeyboardApp(tk.Tk):
         super().__init__()
 
         self.title("Keyboard Emulator")
-        self.configure(bg="#F4F4F4")
+        self.configure(bg="#222222")  
 
-        self.text_entry = tk.Text(self, width=40, height=10, bg="#FFFFFF")
+        self.text_entry = tk.Text(self, width=40, height=10, bg="#333333", fg="#FFFFFF") 
         self.text_entry.pack(pady=10, padx=20)
 
         self.text_entry.bind("<Tab>", lambda e: "break")
 
-        self.start_button = tk.Button(self, text="Start", bg="#4CAF50", fg="white", command=self.start_typing)
+        self.start_button = tk.Button(self, text="Start", bg="#4CAF50", fg="#FFFFFF", command=self.start_typing) 
         self.start_button.pack(pady=5)
 
     def start_typing(self):
